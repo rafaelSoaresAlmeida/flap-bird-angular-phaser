@@ -1,6 +1,6 @@
 # FlapBirdPhaser
 
-This a project that I have get the typescript code about Flap Bird in Internet to study, I don't remember where and I have just adapt this code to run in Angular project. Just that.
+This a project that I have get the typescript code about Flap Bird in Internet to study, I don't remember where I have get this code and I have just adapt this code to run in Angular project. Just that.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
